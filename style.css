@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-box{
+    width: 1000px;
+    height: 600px;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 50px;
+}
+.box-base{
+    width: 33.333%;
+    height: 100%;
+    float: left;
+}
+.box1{
+    background-color: #002395 ;
+}
+.box2{
+    background-color: #FFFFFF;
+}
+.box3{
+    background-color: #ED2939;
+}
